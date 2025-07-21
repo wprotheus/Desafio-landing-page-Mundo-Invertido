@@ -13,7 +13,7 @@ O resultado do desafio é composto pelas alterações e ajustes que achei necess
 
 ---  
 
-#### ***Resultado final do desafio -=-> [Mundo Invertido]()***
+#### ***Resultado final do desafio -=-> [Mundo Invertido](https://wprotheus.github.io/Desafio-landing-page-Mundo-Invertido/)***
 
 ---
 
